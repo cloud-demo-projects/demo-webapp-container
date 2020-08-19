@@ -11,6 +11,7 @@ Steps followed-
 4a. Add & populate the dockerfile to be used to build image
 4b. Use maven-webapp plugin to create and push image to private registry
 4c. Use maven-jib plugin to create and push image to private registry
+4d. Use the dockerfile-maven plugin
 5. Build & Test the docker container
 6. Create the webapp resources utilizing the custom container image.
 7. Aha! We are done, verified !
