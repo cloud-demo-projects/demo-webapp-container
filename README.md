@@ -1,6 +1,6 @@
 Introduction
 
-This is a very simple SpringBoot application project highlighting how can we work out a Springboot web dependency project all the way to Azure webapp.
+This is a very simple SpringBoot application project highlighting how can we work out a Springboot web dependency project all the way to Azure webapp for containers.
 
 Steps followed-
 
